@@ -7,6 +7,7 @@
 <br />
 
 [![Website](https://img.shields.io/badge/Website-addiztech.com-1083FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://addiztech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AddizTech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/addiz-tech/)
 [![Email](https://img.shields.io/badge/Email-addiztech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addiztech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-adnan--xdev-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adnan-xdev)
 
@@ -16,8 +17,8 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Founder & CEO @ [AddizTech](https://addiztech.com):** Leading a premier digital solutions and web development agency based in Lahore, Pakistan.
-- 💼 **Experience:** 18+ Years in the Digital Media, Web Engineering, and E-Commerce Industry.
+- 🚀 **Founder & CEO @ [AddizTech](https://addiztech.com):** Leading a premier digital solutions and web development agency based in Siddiq Trade Center, Gulberg III, Lahore, Pakistan.
+- 💼 **Experience:** 18+ Years in the Digital Media, Web Engineering, and Enterprise Software Industry.
 - 🛠️ **Core Specialities:** Full-Stack Web Development, Custom WordPress & Shopify Architecture, Laravel, React, and Performance Optimization.
 - 📈 **Digital Growth:** Helping global brands scale through Technical SEO, Core Web Vitals optimization, and high-converting UI/UX.
 - 🌐 **Location:** Lahore, Pakistan.
@@ -64,14 +65,16 @@
 
 ---
 
-### 🏢 Featured Enterprise & Agency Ventures
+### ⭐ Featured Client Projects & Agency Portfolio
 
-| Venture / Service | URL | Overview | Tech Focus |
+| Project / Client Platform | Industry / Category | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| 🌐 **AddizTech IT Solutions** | [addiztech.com](https://addiztech.com) | Premier digital agency delivering web development, branding & SEO | Full-Stack, WordPress, GSAP |
-| 🛍️ **E-Commerce Solutions** | [addiztech.com](https://addiztech.com) | Custom Shopify and WooCommerce architectures for global merchants | Shopify Liquid, WooCommerce |
-| 🎨 **Brand Identity & UI/UX** | [addiztech.com](https://addiztech.com) | High-converting corporate identity, web design and branding | Figma, Modern UI/UX |
-| 🚀 **Technical SEO & Growth** | [addiztech.com](https://addiztech.com) | Core Web Vitals optimization, PPC management & analytics setup | Technical SEO, GA4, GTM |
+| ⚡ **Nexis+ AI Platform** | AI & Business Intelligence | Enterprise analytics dashboard and data intelligence platform | React, Node.js, AI APIs |
+| 🚗 **Electric Transits Africa** | Clean Energy & Mobility | Modern EV transit and sustainable mobility solutions portal | Next.js, Tailwind, REST APIs |
+| ⚙️ **Johnson & Pump** | Industrial Engineering | Heavy equipment catalog and industrial machinery web platform | WordPress, Custom PHP, MySQL |
+| ⚖️ **Notark** | Legal Tech & Security | Digital legal identity, verification and document notarization platform | React, Laravel, Security Stack |
+| 💎 **Luxury Brand Identity** | Premium E-Commerce | Bespoke e-commerce storefront with custom conversion architecture | Shopify Liquid, GSAP, UI/UX |
+| 🌐 **AddizTech IT Solutions** | Agency Flagship | Official agency website with interactive animations & high-speed SEO | WordPress, GSAP, Core Web Vitals |
 
 ---
 
@@ -80,6 +83,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-addiztech.com-1083FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://addiztech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/addiz-tech/)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addiztech@gmail.com)
 
 </div>
